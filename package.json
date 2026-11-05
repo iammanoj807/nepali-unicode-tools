@@ -1,0 +1,16 @@
+{
+  "name": "nepali-unicode-tools",
+  "version": "1.0.0",
+  "description": "Preeti ↔ Unicode and Romanized Nepali → Unicode converters for Nepali (Devanagari). No dependencies, works in the browser and Node.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "files": ["src"],
+  "scripts": { "test": "node --test test/" },
+  "keywords": ["nepali", "preeti", "unicode", "preeti-to-unicode", "romanized", "devanagari", "transliteration", "nepali-typing"],
+  "author": "Manoj Kumar Thapa (https://hamropedia.com)",
+  "homepage": "https://hamropedia.com/tools/preeti-to-unicode/",
+  "repository": { "type": "git", "url": "https://github.com/iammanoj807/nepali-unicode-tools.git" },
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
